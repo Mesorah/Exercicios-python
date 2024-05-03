@@ -1,0 +1,2 @@
+c = 'opa'
+print(c)

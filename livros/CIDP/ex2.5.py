@@ -1,0 +1,1 @@
+print('Alvert Einstein disse uma vez: "coco" ')

@@ -1,0 +1,4 @@
+D:\LUA projetos\vp\obj\Debug\net8.0\vp.GeneratedMSBuildEditorConfig.editorconfig
+D:\LUA projetos\vp\obj\Debug\net8.0\vp.AssemblyInfoInputs.cache
+D:\LUA projetos\vp\obj\Debug\net8.0\vp.AssemblyInfo.cs
+D:\LUA projetos\vp\obj\Debug\net8.0\vp.csproj.CoreCompileInputs.cache
